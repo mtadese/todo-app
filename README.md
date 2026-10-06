@@ -8,8 +8,8 @@ A To-do web application developed using Django framework..
 
 ### to build via Docker:
 > docker build -t todo-app .
-> docker run -p 8001:8001 todo-app:latest
--- on web browser, run: http://localhost:8001
+> <br>docker run -p 8001:8001 todo-app:latest
+<br>-- on web browser, run: http://localhost:8001
 
 
 ### dev env os:
