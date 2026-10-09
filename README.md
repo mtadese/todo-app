@@ -1,6 +1,6 @@
 # To-do Web Application
 
-A To-do web application developed using Django framework..
+A To-do (task manager) web application developed using Django framework..
 
 ### to clone locally:
 > git clone https://github.com/mtadese/todo-app.git
@@ -9,7 +9,7 @@ A To-do web application developed using Django framework..
 ### to build via Docker:
 > docker build -t todo-app .
 > <br>docker run -p 8001:8001 todo-app:latest
-<br>-- on web browser, run: http://localhost:8001
+<br>-- on web browser, run: http://127.0.0.1:8001
 
 
 ### dev env os:
